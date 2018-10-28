@@ -8,7 +8,8 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-https/
+https/key.pem
+https/cert.pem
 
 .data/
 lib/config.js
