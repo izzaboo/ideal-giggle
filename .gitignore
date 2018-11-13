@@ -12,4 +12,5 @@ https/key.pem
 https/cert.pem
 
 .data/
+.logs/
 lib/config.js
